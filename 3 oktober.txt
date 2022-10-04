@@ -1,0 +1,16 @@
+Senin, 3 Oktober 2022
+-intoduction to data science and toolbox
+*data science is about extraction, preparation, analysis, visualization, and maintenence the information (data)
+*data scince is acumulation among mathematics, computer science, and domain expertise
+
+
+integer(bilangan bulat)
+numeric (non bulat)
+
+
+*order buy
+desc= data terbesar - kecil
+asc= kecil ke besar
+
+
+select

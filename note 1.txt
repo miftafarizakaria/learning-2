@@ -1,0 +1,16 @@
+
+
+data enginer
+data analys
+
+data science
+
+for making models to solve a task such predicted thing
+
+
+-script
+to make predict (predict the potensial of heart break)
+
+notebook
+to make reporting
+(task)

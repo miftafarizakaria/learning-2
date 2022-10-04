@@ -1,0 +1,30 @@
+4 OKTOBER 2022
+*git is a version control system
+
+cmd step 1
+>git config --global user.name "Miftafari Zakaria"
+>git config --global user.email "miftafarizakaria@gmail.com"
+>git config --global core.editor "code --wait"
+>code
+
+
+
+Microsoft Windows [Version 10.0.22000.856]
+(c) Microsoft Corporation. All rights reserved.
+
+C:\learning_jurnals>git init
+Initialized empty Git repository in C:/learning_jurnals/.git/
+
+C:\learning_jurnals>
+
+
+
+*git
+git init
+git add>stage index
+git commit>save
+git push>laporan ke github
+git remote>sebelum push
+//structure command
+
+fit status
